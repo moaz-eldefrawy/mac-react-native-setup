@@ -70,6 +70,9 @@ echo 'export PATH=$PATH:$ANDROID_HOME/platform-tools' >> ~/.zshrc
 
 brew install --cask reactotron
 
+# optional
+# brew install --cask sourcetree
+
 
 
 
